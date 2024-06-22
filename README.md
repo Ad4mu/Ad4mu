@@ -1,6 +1,5 @@
-# About me
+I just code for fun.
 
-- 15yo larning Ciber Security stuff...
+I'm currently learning python and bash.
 
-
-adandg258@gmail.com
+Discord: ad4mu
